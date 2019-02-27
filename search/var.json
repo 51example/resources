@@ -1,0 +1,12 @@
+{
+"bing_cn": [
+  {"base": "https://cn.bing.com/images/async"},
+  {"k": "?q="},
+  {"first": "&first="},
+  {"count": "&count="},
+  {"tail": "&adlt=&qft=+filterui:imagesize-wallpaper&FORM=BESBTB"},
+  {"max": "200"},
+  {"num": "35"},
+  {"expr": "purl&quot;:&quot;(.*?)&quot;,&quot;murl&quot;:&quot;(.*?)&quot;"}
+  ]
+}

@@ -28,8 +28,8 @@
   "base": "http://image.baidu.com/search/avatarjson?tn=resultjsonavatarnew&ie=utf-8",
   "k": "&word=",
   "first": "&start=",
-  "count": "&pn=",
-  "tail": "&rn=60",
+  "count": "&rn=",
+  "tail": "",
   "max": "1000",
   "num": "60",
   "expr": "\"objURL\":\"(.*?)\", \"fromURL\":\"(.*?)\","

@@ -17,7 +17,7 @@
   "k": "?q=",
   "first": "&start=",
   "count": "&ijn=",
-  "tail": "&tbm=isch",
+  "tail": "&tbm=isch&tbs=isz:l",
   "max": "1000",
   "num": "100",
   "expr": "\"ou\":\"(.*?)\".*?\"ru\":\"(.*?)\","

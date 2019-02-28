@@ -1,5 +1,6 @@
 {
-"bing_cn": {
+"bing_cn":
+   {
   "base": "https://cn.bing.com/images/async",
   "k": "?q=",
   "first": "&first=",
@@ -8,5 +9,18 @@
   "max": "200",
   "num": "35",
   "expr": "purl&quot;:&quot;(.*?)&quot;,&quot;murl&quot;:&quot;(.*?)&quot;"
+  },
+
+"google":
+  {
+  "base": "https://www.google.com/search",
+  "k": "?q=",
+  "first": "&start=",
+  "count": "&ijn=",
+  "tail": "&tbm=isch",
+  "max": "1000",
+  "num": "100",
+  "expr": "&quot;ou&quot;:&quot;(.*?)&quot;"
   }
 }
+

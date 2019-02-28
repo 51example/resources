@@ -8,7 +8,8 @@
   "tail": "&adlt=&qft=+filterui:imagesize-wallpaper&FORM=BESBTB",
   "max": "200",
   "num": "35",
-  "expr": "purl&quot;:&quot;(.*?)&quot;,&quot;murl&quot;:&quot;(.*?)&quot;"
+  "expr": "purl&quot;:&quot;(.*?)&quot;,&quot;murl&quot;:&quot;(.*?)&quot;",
+  "agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36"
   },
 
 "google":
@@ -20,7 +21,8 @@
   "tail": "&tbm=isch&tbs=isz:l",
   "max": "1000",
   "num": "100",
-  "expr": "\"ou\":\"(.*?)\".*?\"ru\":\"(.*?)\","
+  "expr": "\"ou\":\"(.*?)\".*?\"ru\":\"(.*?)\",",
+  "agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36"
   },
 
 "baidu":
@@ -32,7 +34,8 @@
   "tail": "",
   "max": "1000",
   "num": "60",
-  "expr": "\"objURL\":\"(.*?)\",.*?\"fromURL\":\"(.*?)\","
+  "expr": "\"objURL\":\"(.*?)\",.*?\"fromURL\":\"(.*?)\",",
+  "agent": "Mozilla/5.0 (Macintosh; Intel Mac OS X 10_11_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/48.0.2564.116 Safari/537.36"
   }
 
 }

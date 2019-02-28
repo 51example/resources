@@ -22,5 +22,18 @@
   "num": "100",
   "expr": "\"ou\":\"(.*?)\".*?\"ru\":\"(.*?)\","
   }
+
+"baidu":
+  {
+  "base": "http://image.baidu.com/search/avatarjson?tn=resultjsonavatarnew&ie=utf-8",
+  "k": "&word=",
+  "first": "&start=",
+  "count": "&pn=",
+  "tail": "&rn=60",
+  "max": "1000",
+  "num": "60",
+  "expr": "\"objURL\":\"(.*?)\", \"fromURL\":\"(.*?)\","
+  }
+
 }
 

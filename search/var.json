@@ -20,7 +20,7 @@
   "tail": "&tbm=isch",
   "max": "1000",
   "num": "100",
-  "expr": "&quot;ou&quot;:&quot;(.*?)&quot;"
+  "expr": "\"ou\":\"(.*?)\".*?\"ru\":\"(.*?)\","
   }
 }
 
